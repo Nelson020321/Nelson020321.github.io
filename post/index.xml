@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>课程学习内容 on Nelson</title>
+    <link>https://nelson020321.github.io/post/</link>
+    <description>Recent content in 课程学习内容 on Nelson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://nelson020321.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>视频处理</title>
+      <link>https://nelson020321.github.io/post/chapter-6/</link>
+      <pubDate>Sun, 01 Jan 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://nelson020321.github.io/post/chapter-6/</guid>
+      <description>本次的视频处理工作利用了shotcut软件。
+Shotcut是一个面向Windows、Mac和Linux的免费、开源和跨平台视频编辑器。包括了各种形式的视频编辑支持。 提供了诸如：GPU加速、拖拽处理视频、视频特效滤镜等功能。视频呈现分辨率最多支持4k。</description>
+    </item>
+    
+    <item>
+      <title>位图的处理</title>
+      <link>https://nelson020321.github.io/post/chapter-5/</link>
+      <pubDate>Sat, 31 Dec 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://nelson020321.github.io/post/chapter-5/</guid>
+      <description>GIMP是GNU Image Manipulation Program（GNU图像处理程序）的缩写，它是Peter Mattis和Spencer Kimhall开发的免费照片和图像处理和创作工具，功能十分强大。GIMP支持多种图像处理工具、全通道、多级撤销操作恢复旧貌与映像修饰等功能。它也支持数目众多的效果插件（plug-ins），完全可以与Windows平台下著名的图像处理软件Photoshop媲美。
+GIMP的功能相当强大，它可以作为一个简单的绘图程序来使用，也可以作为一个高质量的图像处理软件来使用，它还有图像格式转换等功能。GIMP具有良好的可扩展性，它支持带插件参数的高级脚本接口，对每件工作，无论是最简单的任务，还是最复杂的图像处理过程，都可以很容易地用脚本来描述。由于其功能相当强大，GIMP被誉为Linux下处理图像的法宝，是Linux下的Photoshop。
+GIMP的界面比Photoshop简洁，启动时有一个看起来和Photoshop很相似的工具栏，当我们打开图像文件，并用鼠标右键单击图像时会弹出一系列的选项。</description>
+    </item>
+    
+    <item>
+      <title>声音媒体处理</title>
+      <link>https://nelson020321.github.io/post/chapter-4/</link>
+      <pubDate>Fri, 30 Dec 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://nelson020321.github.io/post/chapter-4/</guid>
+      <description>Audacity是一个跨平台的声音编辑软件，用于录音和编辑音频，是自由、开放源代码的软件。可在Mac OS X、Microsoft Windows、GNU/Linux和其它操作系统上运作。Audacity在2004年7月获选为SourceForge .net当月最佳推荐项目，2007年7月获选多媒体类的SourceForge .net 2007 Community Choice Awards 。</description>
+    </item>
+    
+    <item>
+      <title>数值和文本媒体处理</title>
+      <link>https://nelson020321.github.io/post/chapter-3/</link>
+      <pubDate>Thu, 29 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://nelson020321.github.io/post/chapter-3/</guid>
+      <description>Orange 是一个基于组件的数据挖掘和机器学习软件套装，它包含了完整的一系列的组件以进行数据预处理，并提供了数据帐目，过渡，建模，模式评估和勘探的功能。其由 C 和 Python 开发，它的图形库是由跨平台的Qt框架开发。使用 Orange无需编程或深入的数学知识。
+功能特性：
+交互式数据可视化：通过巧妙的数据可视化执行简单的数据分析。探索统计分布、箱线图和散点图，或者深入了解决策树、层次聚类、热图、MDS 和线性投影。甚至多维数据也可以在 2D 中变得有意义。
+可视化编程：交互式数据探索，通过清晰的可视化操作进行快速定性分析。图形用户界面使您可以专注于探索性数据分析而不是编码，而巧妙地默认设置使数据分析工作流程的快速原型设计变得非常容易。
+数据科学教育：Orange 是实践培训的完美工具。教师享受清晰的程序设计和数据模型的可视化探索。学生受益于该工具的灵活性和发明数据挖掘方法新组合的能力。Orange 教育力量来自可视化编程和交互式可视化的结合。
+附加组件扩展功能：使用 Orange 中可用的各种插件从外部数据源中挖掘数据、执行自然语言处理和文本挖掘、进行网络分析、推断频繁项集和进行关联规则挖掘。此外，生物信息学家和分子生物学家也可以使用 Orange 通过差异表达对基因进行排序并进行富集分析。
+一些Orange的数据分析功能(1) 一些Orange的数据分析功能(2) 一些Orange的数据分析功能(3) </description>
+    </item>
+    
+    <item>
+      <title>平面设计（二）</title>
+      <link>https://nelson020321.github.io/post/chapter-2/</link>
+      <pubDate>Wed, 28 Dec 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://nelson020321.github.io/post/chapter-2/</guid>
+      <description>diagrams.net/draw.io 是用于构建图表应用程序的开源技术堆栈，也是世界上使用最广泛的基于浏览器的最终用户图表软件。
+diagrams.net 是JGraph Ltd和 draw.io AG的商标，draw.io 是注册商标。JGraph Ltd是一家在英国注册的公司，draw.io AG是一家在瑞士注册的公司。这些公司共同开发和拥有软件，运营 diagrams.net 和 draw.io 站点，并拥有 diagrams.net 和 draw.io 品牌。</description>
+    </item>
+    
+    <item>
+      <title>平面设计（一）</title>
+      <link>https://nelson020321.github.io/post/chapter-1/</link>
+      <pubDate>Tue, 27 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://nelson020321.github.io/post/chapter-1/</guid>
+      <description>yEd Graph Editor是一款功能强大的流程图绘制软件。yEd Graph Editor可以创建流程图、UML 图表、意向图以及图形和网络结构图等多种图表，提供了完整的流程图绘制功能。从广泛的版面设计当中进行选择以自动地配置你的图表。你可以保存，打印或者导出图表为诸如 WMF, JPEG, GIF, XML,PNG 或者 SVG 这样的流行的格式。</description>
+    </item>
+    
+  </channel>
+</rss>
